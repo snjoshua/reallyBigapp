@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_site">
+    <content_site action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <catalog_cartless>false</catalog_cartless>
+        <catalog_headless>false</catalog_headless>
+        <default_layout/>
+        <default_page/>
+        <default_theme/>
+        <description>Test Description b8AUtn71rzHluGg4</description>
+        <gauge_page/>
+        <login_page/>
+        <name>Example Record b8AUtn71rzHluGg4</name>
+        <search_page/>
+        <sys_class_name>content_site</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-09 22:21:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a69db9a867901200ff3598a557415a75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Example Record b8AUtn71rzHluGg4</sys_name>
+        <sys_package display_value="reallyLargeApp" source="sn_reallylargeapp">a41b7de467901200ff3598a557415a29</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="reallyLargeApp">a41b7de467901200ff3598a557415a29</sys_scope>
+        <sys_update_name>content_site_a69db9a867901200ff3598a557415a75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-09 22:21:49</sys_updated_on>
+        <title/>
+        <url_suffix/>
+    </content_site>
+    <sys_translated_text action="delete_multiple" query="documentkey=a69db9a867901200ff3598a557415a75"/>
+</record_update>

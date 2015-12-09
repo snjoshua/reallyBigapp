@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Test Description fCV8NXz4xokX0SIz</description>
+        <field/>
+        <global>true</global>
+        <messages/>
+        <name>Example Record fCV8NXz4xokX0SIz</name>
+        <order/>
+        <script/>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-09 22:22:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5eadf9a867901200ff3598a557415a98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Example Record fCV8NXz4xokX0SIz</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="reallyLargeApp" source="sn_reallylargeapp">a41b7de467901200ff3598a557415a29</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="reallyLargeApp">a41b7de467901200ff3598a557415a29</sys_scope>
+        <sys_update_name>sys_script_client_5eadf9a867901200ff3598a557415a98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-09 22:22:04</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
